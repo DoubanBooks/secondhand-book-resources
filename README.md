@@ -13,8 +13,8 @@
 | 淘书网 | ⭐⭐⭐⭐ | [淘书网](https://www.taoshu.com/) | - | - | - | 专业二手书交易平台 |
 | 淘书铺 | ⭐⭐⭐ | [淘书铺](https://www.taoshupu.com/) | ![淘书铺微信二维码](images/taoshupu_wechat.png) | - | - | 二手书交易平台 |
 | 爱读客 | ⭐⭐⭐ | [爱读客](https://idubook.cn/) | ![爱读客微信二维码](images/aiduke_wechat.png) | - | - | 二手书交易平台 |
-| 书循 | ⭐⭐ | - | ![书循微信二维码](images/shuxun_wechat.png) | - | - | 循环二手书平台 |
-| 书嗨 | ⭐⭐ | - | ![书嗨微信二维码](images/shuhai_wechat.png) | - | - | 二手书交易平台 |
+| 书循 | ⭐⭐ | - | `#小程序://书循/UbT8fNGedoV9G5C` | - | - | 循环二手书平台 |
+| 书嗨 | ⭐⭐ | - | `#小程序://书嗨/Etzr1ATMWikkXII` | - | - | 二手书交易平台 |
 
 ## 平台对比
 
